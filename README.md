@@ -1,6 +1,6 @@
 # Still working on it....Daily updates
 ## MukenyaPhotography
-### Open source we application to show how static web pages run when using django template
+### Open source web application to show how static web pages run when using django template
 
 # URL Mapping remaining
 ## Already added the necessary files to assets folder
