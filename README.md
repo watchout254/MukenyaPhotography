@@ -18,3 +18,7 @@
 
 ## Pricing
 ![image](https://github.com/watchout254/MukenyaPhotography/assets/88248852/692f940c-2364-4865-ad3c-d5285a44d07c)
+
+##Faqs
+![image](https://github.com/watchout254/MukenyaPhotography/assets/88248852/13033f1d-10d4-4e77-80f2-bb4e2d5c46ea)
+
