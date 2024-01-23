@@ -16,3 +16,5 @@
 ## Team page
 ![image](https://github.com/watchout254/MukenyaPhotography/assets/88248852/2f56b233-b6d9-4841-962f-39fcfe00321b)
 
+## Pricing
+![image](https://github.com/watchout254/MukenyaPhotography/assets/88248852/692f940c-2364-4865-ad3c-d5285a44d07c)
