@@ -12,3 +12,7 @@
 
 ## Services page
 ![image](https://github.com/watchout254/MukenyaPhotography/assets/88248852/d74f5c89-3f3a-4a55-a531-b61584dfd9e9)
+
+## Team page
+![image](https://github.com/watchout254/MukenyaPhotography/assets/88248852/2f56b233-b6d9-4841-962f-39fcfe00321b)
+
