@@ -15,3 +15,10 @@ def homepage(request):
 
     return render(request, 'index.html', {'dest1': dest1})
 
+def about(request):
+    return HttpResponse 
+def faqs(request):
+    return HttpResponse
+def strategy(request):
+    return HttpResponse
+    
